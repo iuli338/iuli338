@@ -1,4 +1,4 @@
-Hi, my name is Iulian. Second year of university at https://aciee.ugal.ro/
+Hi, my name is Iulian. Third year of university at https://aciee.ugal.ro/
 
 Languages I know:
 - C++
