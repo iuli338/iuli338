@@ -8,8 +8,10 @@ Languages I know:</br>
 
 Languages I'm learning:</br>
 - JavaScript
+- Java
 
 Some of my projects:</br>
+![wordle python](https://github.com/user-attachments/assets/e7120fb8-6340-4bcb-8827-d0cbab856492)
 ![pic1](https://github.com/user-attachments/assets/c0d1cfb0-9d9f-404a-8420-7b8e2fa2cd6f)</br>
 ![pic2](https://github.com/user-attachments/assets/6a849c60-fe72-4836-9f8b-13835fa524c1)</br>
 ![pic3](https://github.com/user-attachments/assets/5256a467-08f6-4997-967b-5277bebab220)</br>
